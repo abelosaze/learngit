@@ -1,0 +1,72 @@
+
+
+body{
+    background-color: gray;
+    
+}
+
+form{
+    background-color: rgb(89, 57, 131);
+    width: 150px;
+    height: 520px;
+    margin-left: 200px;
+    padding: 80px;
+    margin-top: 100px;
+    
+}
+
+h1{
+    color: rgb(250, 248, 248);
+    text-align: center;
+    text-transform: capitalize;
+}
+
+
+ form label{
+    display: flex;
+    margin-top: 10px;
+    font-size: 13px;
+}
+
+form input{
+    width: 150px;
+    padding: 7px;
+    border: none;
+    outline: none;
+    border: 1px solid grey;
+    border-radius: 6px;
+}
+
+.logo{
+    margin-left: -990px;
+    text-transform: capitalize;
+    font-weight: 600;
+    color: rgb(250, 246, 244);
+    
+    
+}
+
+nav{
+    background-color: rgb(117, 114, 114);
+
+}
+
+ul{
+    display: flex;
+    margin-left: 450px;
+    
+}
+
+ul li{
+    margin: 40px;
+    margin-top: -10px;
+    text-transform: capitalize;
+    font-size: large;
+    list-style: none;
+}
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
